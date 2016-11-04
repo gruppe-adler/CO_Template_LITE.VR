@@ -1,4 +1,5 @@
 //Loadouts
+#include "USERSCRIPTS\loadouts.sqf"
 #include "node_modules\grad-factions\loadouts.hpp"
 
 //Functions
