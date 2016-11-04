@@ -1,5 +1,3 @@
-#include "script_component.hpp"
-
 if (!isServer) then {
     [] execVM "initcommon.sqf";
 };
@@ -12,5 +10,3 @@ if (didJIP) then {
 [] execVM "helpers\createDiaryRecords.sqf";
 
 ["InitializePlayer", [player]] call BIS_fnc_dynamicGroups;
-
-/*[0,true] call FNC_SMC(client,setClientAction);*/
