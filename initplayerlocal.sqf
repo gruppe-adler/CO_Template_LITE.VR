@@ -10,3 +10,4 @@ if (didJIP) then {
 [] execVM "helpers\createDiaryRecords.sqf";
 
 ["InitializePlayer", [player]] call BIS_fnc_dynamicGroups;
+player addEventHandler ["HandleRating",{0}];
