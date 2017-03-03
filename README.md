@@ -1,4 +1,4 @@
-# CO_Template
+# CO_Template_LITE (Entwicklung eingestellt - siehe CO_Template 2.0.0 aufwärts)
 
 Ziel dieser Vorlage ist es, eine standardisierte Plattform für unsere Coop Missionen zu bieten und dem Missionsersteller den Großteil der Voreinstellungsarbeit abzunehmen.
 
